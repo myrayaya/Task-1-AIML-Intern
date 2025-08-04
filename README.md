@@ -21,6 +21,8 @@ This repository contains my solution for Task 1 (Data Cleaning and Preprocessing
 <img width="1094" height="507" alt="image" src="https://github.com/user-attachments/assets/3c722106-8372-4160-bc4b-8203dafe53db" />
 <img width="649" height="509" alt="image" src="https://github.com/user-attachments/assets/8f3259eb-34db-4a75-8dfc-320713abe5fe" />
 <img width="651" height="165" alt="image" src="https://github.com/user-attachments/assets/dc532f3f-b90f-4c5a-91c7-dc4074a94a99" />
+<img width="586" height="422" alt="image" src="https://github.com/user-attachments/assets/fe9badd9-49dd-40b5-a5a5-2cdf55909e57" />
+
 
 ## Author
 - Myra Chauhan
